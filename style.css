@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+img{
+    height: 400px;
+    transition: 5s;
+    cursor: pointer;
+}
